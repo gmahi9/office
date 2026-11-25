@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="logoTitle">
+  <title id="logoTitle">AI TEK SOLUTIONS</title>
+  <rect width="64" height="64" rx="18" fill="#eef6fc"/>
+  <rect x="1.25" y="1.25" width="61.5" height="61.5" rx="16.75" fill="none" stroke="#c5e2f6" stroke-width="1.5"/>
+  <circle cx="32" cy="32" r="22.5" fill="none" stroke="#8ec4ea" stroke-width="1.6"/>
+  <path fill="none" stroke="#2f7eb8" stroke-width="2" stroke-linecap="round" d="M13.5 37.5a21.2 21.2 0 0 1 37.4-8.6"/>
+  <path fill="#1b3148" fill-rule="evenodd" d="M32 15.2 48.6 48.4h-6.3l-3.5-7.4H25.2l-3.5 7.4h-6.3L32 15.2zm0 13.4-4.1 8.6h8.2L32 28.6z"/>
+  <rect x="26.1" y="34.7" width="11.8" height="2.5" rx="1.25" fill="#3d93c9"/>
+</svg>
